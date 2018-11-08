@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Great+Vibes");
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+img {
+  width: 200px;
+}
+
+h1 {
+  color: purple;
+}
+
+body {
+  background: #fff570;
+  font-family: "Great Vibes", cursive;
+  font-size: 48px;
+}
+
+h1 {
+  margin-left: 40px;
+  padding-left: 40px;
+}
+
+.header {
+  background: pink;
+}
+.blueparagraph {
+  color: blue;
+}
+.brownparagraph {
+  color: brown;
+}
+.cupcake-container {
+  margin: 30px 0px 0px 60px;
+  padding: 10px;
+  padding: 48px;
+  background: white;
+  width: 300px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cakeTitle {
+  text-align: center;
+  padding: 5px;
+}
